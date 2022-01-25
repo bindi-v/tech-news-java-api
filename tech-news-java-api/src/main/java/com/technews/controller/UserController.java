@@ -2,6 +2,7 @@ package com.technews.controller;
 
 import com.technews.model.Post;
 import com.technews.model.User;
+import com.technews.repository.UserRepository;
 import com.technews.repository.VoteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -14,7 +15,7 @@ import java.util.List;
 public class UserController {
 
     @Autowired
-    com.technews.model.repository.UserRepository repository;
+    UserRepository repository;
 
     @Autowired
     VoteRepository voteRepository;
