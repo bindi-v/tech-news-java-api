@@ -60,7 +60,16 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 The following image demonstrates the application functionality:
 
-![Java based tech news application]()
+![Java based tech news application homepage](./assets/loginpage.png)
+
+![Java based tech news application dashboard](./assets/dashboard.png)
+
+![Java based tech news application create post](./assets/createPost.png)
+
+![Java based tech news application comment page](./assets/comment.png)
+
+![Java based tech news application edit post page](./assets/EditPost.png)
+
 
 ## Table Of Contents
 
@@ -110,7 +119,7 @@ If you have any questions, please reach out to my Github,
 
 ### Deployed Link
 
-* [The URL of the functional, deployed to Heroku application.]()
+* [The URL of the functional, deployed to Heroku application.](https://java-tech-news-api.herokuapp.com/)
 
 * [The URL of the GitHub repository](https://github.com/bindi-v/tech-news-java-api)
 
